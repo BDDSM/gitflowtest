@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="383589b4-939b-40d4-810b-ac329cb20de4">
+  <producedTypes>
+    <objectType typeId="58bb9e5a-3c51-4ab9-89d1-134a4c80a04c" valueTypeId="f45d7b46-c54c-4bd1-946c-b1382965849f"/>
+  </producedTypes>
+  <name>TestGitFlow</name>
+  <synonym>
+    <key>en</key>
+    <value>Test git flow</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="7b7c80cf-2842-4583-9b0b-661aeeb51947"/>
+  <defaultForm>ExternalDataProcessor.TestGitFlow.Form.Form</defaultForm>
+  <forms uuid="b4b1b2f6-9c25-41f6-a2d9-6e473cf998b0">
+    <name>Form</name>
+    <synonym>
+      <key>en</key>
+      <value>Form</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
