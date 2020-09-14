@@ -5,7 +5,8 @@ Procedure Command1(Command)
 	
 	ShowMessage1("Message 1");
 	ShowMessage2("Message 2");
-	ShowMessage2("Message 2");
+	ShowMessage3("Message 3");  
+	ShowMessage3("Message 3");    
 	
 EndProcedure
 
